@@ -98,9 +98,7 @@
   },
   "launch" : {
     "flags" : [
-      "-Dfml.ignoreInvalidMinecraftCertificates=true",
-      "-Xms4092m",
-      "-Xmx4092m"
+      "-Dfml.ignoreInvalidMinecraftCertificates=true"
     ]
   }
 }

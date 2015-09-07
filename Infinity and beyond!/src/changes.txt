@@ -1,0 +1,12 @@
+### Version 1.0.0 ###
+* base infinity
+* remove minefactory reloaded
+* remove dense ores
+* remove steve's workshop
+* remove hats
+* remove hatstand
+* add ae2 stuff
+* add big trees
+* add compact machines
+* add reactorcraft
+* add rotarycraft

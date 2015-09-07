@@ -1,27 +1,34 @@
-### Version 1.0.7 ###
+### Version 1.0.7
 * update draconic evolution
 * add brandon core
-### Version 1.0.6 ###
+
+### Version 1.0.6
 * remove mystcraft
 * add aroma dimensional world
 * update rftools
-### Version 1.0.5 ###
+
+### Version 1.0.5
 * fix mainmenu
 * fix hqm crash
-### Version 1.0.4 ###
+
+### Version 1.0.4
 * optional mods (optfine, opis)
 * fixed compactmachines config
 * updated AOBD
-### Version 1.0.3 ###
+
+### Version 1.0.3
 * add clientmods
 * remove servermods
-### Version 1.0.2 ###
+
+### Version 1.0.2
 * add Hardcore Questing Mode
 * add base quests
-### Version 1.0.1 ###
+
+### Version 1.0.1
 * add servers.dat
 * renamed folder to please linux users
-### Version 1.0.0 ###
+
+### Version 1.0.0
 * base infinity
 * remove minefactory reloaded
 * remove dense ores

@@ -1,3 +1,7 @@
+### Version 1.0.6 ###
+* remove mystcraft
+* add aroma dimensional world
+* update rftools
 ### Version 1.0.5 ###
 * fix mainmenu
 * fix hqm crash

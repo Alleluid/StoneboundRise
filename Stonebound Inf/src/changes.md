@@ -26,3 +26,6 @@
 * Add Gravisuite
 * Add Electricraft
 * Add Advanced Solar Panels
+
+### Version 2.0.9 ###
+* Fixed iChunUtil version

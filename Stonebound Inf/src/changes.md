@@ -14,7 +14,7 @@
 * Remove Vending 
 * Add Twilight Forest
 * Add TiCToolTips
-* Add TC NEI Plugin
+* Add TC NEI PluginUpdated
 * Add Storage Drawers
 * Updated Rotarycraft
 * Updated DragonAPI
@@ -29,3 +29,7 @@
 
 ### Version 2.0.9 ###
 * Fixed iChunUtil version
+
+### Version 2.0.10 ###
+* Removed AOBD config
+* Added HQM

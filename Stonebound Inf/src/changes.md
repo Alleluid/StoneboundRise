@@ -33,3 +33,10 @@
 ### Version 2.0.10 ###
 * Removed AOBD config
 * Added HQM
+
+### Version 2.0.11 ###
+* Removed HQM
+
+### Version 2.0.12 ###
+* Added HQM again
+* Removed Opis (conflict with HQM)

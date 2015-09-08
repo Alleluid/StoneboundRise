@@ -40,3 +40,7 @@
 ### Version 2.0.12 ###
 * Added HQM again
 * Removed Opis (conflict with HQM)
+
+### Version 2.0.13 ###
+* Moved oregen configs from Infinity
+* Changed AOBD config to fix issue with Rotarycraft

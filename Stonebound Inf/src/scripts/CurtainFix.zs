@@ -1,4 +1,4 @@
-#Voidstone Fix
+#Curtain Fix
 
 val Wool = <minecraft:wool>;
 

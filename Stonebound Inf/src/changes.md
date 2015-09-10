@@ -91,7 +91,11 @@
 * Thaumcraft
 	* Enabled warp 
 	* Disabled creative tome to unlock all research 
-	* Increased the ore gen in bedrock dimension from 1 to 2 veins per chunk
+	* Increased the ore gen in bedrock dimension from 1 to 2 veins per chunk  
+
+### Version 2.0.16 ###
+* Added Similsax Transtructors
+
 
 	
 	

@@ -77,3 +77,21 @@
 * Rotarycraft
     * Disabled chunk loader
 
+### Version 2.0.15 ###
+* removed unused config files
+* Compact machines
+	* Allowed botania mana to pass through the ports
+* IC2
+	* Disabled the Nuke
+	* Disabled crafting of IC2 Credits
+	* Reduced Reactor explosion from 45 to 1
+* Draconic Evolution
+	* Disabled ore gen in all known dimensions
+	* decreased the drop value of mob spirits
+* Thaumcraft
+	* Enabled warp 
+	* Disabled creative tome to unlock all research 
+	* Increased the ore gen in bedrock dimension from 1 to 2 veins per chunk
+
+	
+	

@@ -19,6 +19,20 @@
     },
     {
       "properties" : {
+        "name" : "Tinkers Tooltips",
+        "description" : "Useful informations about your Tools.",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/TiCTooltips*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
         "name" : "MouseTweaks",
         "description" : "Minor tweaks to mouse behavior.",
         "recommendation" : null,

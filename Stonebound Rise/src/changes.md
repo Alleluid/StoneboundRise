@@ -38,3 +38,4 @@
 * Updated DragonAPI
 * Updated Reactorcraft
 * Updated AOBD
+* Added optional Tinkers Tooltips

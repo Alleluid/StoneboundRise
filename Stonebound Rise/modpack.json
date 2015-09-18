@@ -5,21 +5,6 @@
   "features" : [
     {
       "properties" : {
-        "name" : "Opis",
-        "description" : "If you don't know what this is, don't use it.",
-        "recommendation" : "avoid",
-        "selected" : false
-      },
-      "files" : {
-        "include" : [
-          "mods/MobiusCore*",
-          "mods/Opis*"
-        ],
-        "exclude" : [ ]
-      }
-    },
-    {
-      "properties" : {
         "name" : "JourneyMap",
         "description" : "A powerful minimap.",
         "recommendation" : "starred",

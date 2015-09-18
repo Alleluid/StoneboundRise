@@ -5,6 +5,7 @@
 * Remove ttCore
 * Remove Opis
 * Remove MobiusCore
+* Remove optional Xaeros Minimap
 * Updated WAILAPlugins
 * Updated MoreChisels
 * Updated Chisel

@@ -72,20 +72,6 @@
         ],
         "exclude" : [ ]
       }
-    },
-    {
-      "properties" : {
-        "name" : "Xaero's Minimap",
-        "description" : "A light weight alternative to JourneyMap.",
-        "recommendation" : null,
-        "selected" : false
-      },
-      "files" : {
-        "include" : [
-          "mods/xaeros_minimap*"
-        ],
-        "exclude" : [ ]
-      }
     }
   ],
   "userFiles" : {

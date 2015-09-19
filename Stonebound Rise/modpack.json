@@ -19,14 +19,14 @@
     },
     {
       "properties" : {
-        "name" : "Tinkers Tooltips",
-        "description" : "Useful informations about your Tools.",
+        "name" : "Damage Indicators",
+        "description" : "Target plates that show a portrait of a monster and it's health, MMO style.",
         "recommendation" : "starred",
         "selected" : true
       },
       "files" : {
         "include" : [
-          "mods/TiCTooltips*"
+          "mods/DamageIndicators*"
         ],
         "exclude" : [ ]
       }
@@ -47,14 +47,14 @@
     },
     {
       "properties" : {
-        "name" : "Damage Indicators",
-        "description" : "Target plates that show a portrait of a monster and it's health, MMO style.",
+        "name" : "Tinkers Tooltips",
+        "description" : "Useful informations about your Tools.",
         "recommendation" : "starred",
-        "selected" : true
+        "selected" : false
       },
       "files" : {
         "include" : [
-          "mods/DamageIndicators*"
+          "mods/TiCTooltips*"
         ],
         "exclude" : [ ]
       }
@@ -69,6 +69,20 @@
       "files" : {
         "include" : [
           "mods/OptiFine*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "VoxelMap",
+        "description" : "A very lightweight minimap mod.",
+        "recommendation" : null,
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/mod_voxelMap*"
         ],
         "exclude" : [ ]
       }
